@@ -26,6 +26,10 @@ Goal: Social Network with data from https://jsonplaceholder.typicode.com/
 
 --- Exercise time
 
-9. Fetch posts from API
+9. Like count (local)
+
+--- Exercise time
+
+10. Fetch posts from API
 
 --- Exercise time
