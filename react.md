@@ -23,10 +23,11 @@ Goal: Social Network with data from https://jsonplaceholder.typicode.com/
 
 7. Render many posts
 8. Add basic styling
-9. Like count (local)
+9. Like count (useState for local state):
+ * React knows when to rerender the component
 
 --- Exercise time
 
-10. Fetch posts from API
+10. Fetch posts from API (useEffect and fetch)
 
 --- Exercise time
