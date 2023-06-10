@@ -22,6 +22,7 @@ Goal: Social Network with data from https://jsonplaceholder.typicode.com/
 --- Exercise time
 
 7. Render many posts
+8. Add basic styling
 
 --- Exercise time
 
