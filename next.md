@@ -28,3 +28,5 @@ The framework collected best practices to make the creation of a react applicati
 5. Inspect page source (view ssr) - Proof: Copy posts statically into app component
 6. Create new page for each post
 7. Use Next Link for routing: https://nextjs.org/docs/pages/api-reference/components/link
+
+--- Exercise time
