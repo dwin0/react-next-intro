@@ -18,5 +18,13 @@ Goal: Social Network with data from https://jsonplaceholder.typicode.com/
 
 4. Create new component "Post"
 5. Accept post props
-6. Render many posts
-7. Fetch posts from API
+
+--- Exercise time
+
+7. Render many posts
+
+--- Exercise time
+
+9. Fetch posts from API
+
+--- Exercise time
