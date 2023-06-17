@@ -31,3 +31,5 @@ Goal: Social Network with data from https://jsonplaceholder.typicode.com/
 10. Fetch posts from API (useEffect and fetch)
 
 --- Exercise time
+
+Stackblitz link: https://stackblitz.com/edit/stackblitz-starters-vuvxw7?file=src%2FApp.js
